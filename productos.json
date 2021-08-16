@@ -1,0 +1,37 @@
+[
+    {
+        "id_producto": "vela_001",
+        "cantidad": 1,
+        "tamaño":"X",
+        "aroma":"Vainilla",
+        "color":"Amarillo"
+    }
+    {
+        "id_producto": "poster_001",
+        "cantidad": 1,
+        "tamaño":"M",
+        "aroma":"X",
+        "color":"Madera"
+    }
+    {
+        "id_producto": "Jarron_001",
+        "cantidad": 3,
+        "tamaño":"XL",
+        "aroma":"X",
+        "color":"Naranja"
+    }
+    {
+        "id_producto": "vela_005",
+        "cantidad": 4,
+        "tamaño":"X",
+        "aroma":"Vainilla",
+        "color":"Amarillo"
+    }
+    {
+        "id_producto": "poster_025",
+        "cantidad": 1,
+        "tamaño":"S",
+        "aroma":"X",
+        "color":"Negro"
+    }
+]

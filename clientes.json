@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Andrea Marquez",
+        "telefono": "092101092",
+        "correo": "amarquezd10@gmail.com",
+        "direccion": "Buenos Aires 484 / 302"
+    }
+    {
+        "nombre":"Valentina Martinez",
+        "telefono":"092736703",
+        "correo":"valentina.mr95@gmail.com",
+        "direccion":"Buenos Aires 484 / 302"
+    }
+    {
+        "nombre":"Jesus Marquez",
+        "telefono":"093552483",
+        "correo":"kikemarquez@hotmail.com",
+        "direccion":"Canelones 896 / 206"
+    }
+    {
+        "nombre":"Sofia Luzardo",
+        "telefono":"093552483",
+        "correo":"sofifsofi@hotmail.com",
+        "direccion":"Canelones 896 / 206"
+    }
+    {
+        "nombre":"Marie Marambio",
+        "telefono":"093552483",
+        "correo":"sofifsofi@hotmail.com",
+        "direccion":"Canelones 896 / 206"
+    }
+]
