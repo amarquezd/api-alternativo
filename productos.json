@@ -1,37 +1,26 @@
 [
     {
-        "id_producto": "vela_001",
-        "cantidad": 1,
-        "tamaño":"X",
-        "aroma":"Vainilla",
-        "color":"Amarillo"
-    }
-    {
-        "id_producto": "poster_001",
-        "cantidad": 1,
-        "tamaño":"M",
-        "aroma":"X",
-        "color":"Madera"
-    }
-    {
-        "id_producto": "Jarron_001",
-        "cantidad": 3,
-        "tamaño":"XL",
-        "aroma":"X",
-        "color":"Naranja"
-    }
-    {
-        "id_producto": "vela_005",
-        "cantidad": 4,
-        "tamaño":"X",
-        "aroma":"Vainilla",
-        "color":"Amarillo"
-    }
-    {
-        "id_producto": "poster_025",
-        "cantidad": 1,
-        "tamaño":"S",
-        "aroma":"X",
-        "color":"Negro"
+        "id_producto": 
+        {
+            "producto1": "velas",
+            "producto2": "posters",
+            "producto3": "jarrones"
+        },
+        "tamaño_producto":
+        {
+            "tamaño_velas": "S, M, L",
+            "tamaño_posters": "20x30, 30x42, 42x60",
+            "tamaño_jarrones": "S, M, L"
+        },
+        "aroma_velas":
+        {
+            "aroma1": "Vainilla",
+            "aroma2": "Chocolate",
+            "aroma3": "Cafe"
+        },
+        "color_producto":
+        {
+            "color_velas": "amarillo, verde, rojo, fucsia"
+        }
     }
 ]
